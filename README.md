@@ -3,7 +3,7 @@ A 3 tier environment is a common setup. Use a tool of your choosing/familiarity 
 
 ## Solution: 
 
-- I used below 3 application layers for building 3 tier environment -  
+- I used below 3 application layers for building 3 tier architecture -  
 
 FRONTEND RAILS APP
 
