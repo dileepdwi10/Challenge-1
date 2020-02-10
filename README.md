@@ -18,15 +18,20 @@ I used below aws services to deliver best approach for this Challenge.
 
 ## Microservices:
 
+Below are the advantages of Microservices-
 
 Services in a microservice architecture are independently deployable.
+
 Services are organized around business capabilities.
+
 Services can be implemented using different programming languages, databases, hardware and software environment, depending on what fits best.
+
 Services are small in size, messaging-enabled, bounded by contexts, autonomously developed, independently deployable, decentralized and built and released with automated processes.
 
 
 ## Containerize Application:
 
+Below are the advantages of Containerize application-
 
 Portability between different platforms and clouds—it’s truly write once, run anywhere.
 
