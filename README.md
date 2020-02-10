@@ -6,8 +6,11 @@ A 3 tier environment is a common setup. Use a tool of your choosing/familiarity 
 - I used below 3 application layers for building 3 tier environment -  
 
 FRONTEND RAILS APP
-NODE.JS BACKEND API
-CRYSTAL BACKEND API
+
+NODE.JS BACKEND API 
+
+CRYSTAL BACKEND API 
+
 
 ## Approach: 
 
@@ -62,6 +65,9 @@ Amazon Elastic Container Service (ECS) is a highly scalable, high performance co
 
 
 https://github.com/dileepdwi10/ecsdemo-frontend
+
 https://github.com/dileepdwi10/ecsdemo-nodejs
+
 https://github.com/dileepdwi10/ecsdemo-crystal
+
 https://github.com/dileepdwi10/container-demo
