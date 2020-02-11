@@ -12,7 +12,11 @@ NODE.JS BACKEND API
 CRYSTAL BACKEND API 
 
 
-## 3 tier architecture :
+## 3 tier architecture diagram:
+https://ecsworkshop.com/images/frontend.svg
+
+https://ecsworkshop.com/images/nodejs.svg
+
 https://ecsworkshop.com/images/crystal.svg
 
 
