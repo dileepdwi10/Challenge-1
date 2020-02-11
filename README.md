@@ -12,6 +12,10 @@ NODE.JS BACKEND API
 CRYSTAL BACKEND API 
 
 
+## 3 tier architecture :
+https://ecsworkshop.com/images/crystal.svg
+
+
 ## Approach: 
 
 I used below aws services to deliver best approach for this Challenge.
